@@ -1,2 +1,2 @@
 # laporan-pkl
-Laporan Praktik Kerja Lapangan - Sistem Informasi Pemesanan Iklan di Koran Radar Banjarmasin
+Laporan Praktik Kerja Lapangan - Sistem Informasi Layanan Iklan di Koran Radar Banjarmasin
